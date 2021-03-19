@@ -3,7 +3,7 @@
 # TERMUX LOGIN SCRIPT (2.0)
 ##### Secure your Termux App with Password
 
-<img src="https://i.ibb.co/1G42FbC/termux-login.png"> 
+
 
 ## [+] Installation & Usage
 ```
